@@ -347,6 +347,8 @@ p {
 
 .salesList {
   padding: 24px;
+  display: flex;
+  flex-direction: column;
 }
 
 .salesList li {
